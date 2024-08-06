@@ -1,10 +1,28 @@
 {
     "name": "OpenCRM/OpenCRM",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Customer relationship management (CRM) is a technology for managing all of your company's interactions with current and potential customers. The goal is simple: improve relationships to grow your business.",
     "keywords": [
-        "framework",
-        "laravel"
+        "Customer Relationship Management",
+        "Free Customer Relationship Management Software",
+        "Customer relationship management (CRM)",
+        "Open Source Projects",
+        "Open Source Projects for Business",
+        "Open Source CRM free",
+        "data management",
+        "data analysis",
+        "Sales CRM", "sales automation", "CRM for sales", "sales pipeline management",
+        "Marketing CRM", "marketing automation", "CRM for marketing", "lead management, customer journey mapping",
+        "Customer Service CRM", "helpdesk software", "customer support software", "CRM for customer service", " support ticket management",
+        "CRM Integrations", "CRM API", "CRM and ERP integration", "CRM and marketing automation integration",
+        "Industry-Specific CRM",
+        "CRM for industry", "CRM for healthcare", "CRM for real estate", "CRM for financial services", "CRM for e-commerce",
+        "Industry software", "healthcare CRM", "real estate CRM", "financial CRM", "e-commerce CRM",
+        "Emerging CRM Trends",
+        "AI in CRM", "AI-powered CRM", "CRM with AI", "AI for sales", "AI for customer service",
+        "CRM analytics", "CRM reporting", "CRM dashboard", "data-driven CRM",
+        "Mobile CRM", "mobile CRM", "CRM app", "CRM for sales reps", "CRM for field service",
+        "best CRM for small businesses in the hospitality industry", "CRM software in Delhi"
     ],
     "license": "MIT",
     "require": {
